@@ -10,5 +10,20 @@ public class HelloWorld {
 
         System.out.println("java");
         System.out.println("spring");
+        System.out.println("java");
+        System.out.println("spring");
+        System.out.println("java");
+        System.out.println("spring");
+        System.out.println("java");
+        System.out.println("spring");
+
+        System.out.println("java");
+        System.out.println("spring");
+        System.out.println("java");
+        System.out.println("spring");
+
+        System.out.println("Hello java");
+        System.out.println("Hello Spring");
+
     }
 }
