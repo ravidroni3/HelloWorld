@@ -25,15 +25,11 @@ public class HelloWorld {
         System.out.println("Hello java");
         System.out.println("Hello Spring");
 
-        System.out.println("Hello java");
-        System.out.println("Hello Spring");
+
+
         System.out.println("branch1");
         System.out.println("branch2");
         System.out.println("branch3");
-
-
-
-
 
     }
 }
